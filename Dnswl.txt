@@ -9,6 +9,7 @@
 @@||app-measurement.com^
 @@||acr-us-prd.samsungcloud.tv^
 @@||gvt2.com^
+@@||gvt3.com^
 @@||ogads-pa.googleapis.com^
 @@||royalcaribbean.com^
 @@||em.dynamicyield.com^
