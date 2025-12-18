@@ -18,3 +18,4 @@
 @@||intune.microsoft.com^
 @@||teams.events.data.microsoft.com^
 @@||trace.svc.ui.com^
+@@||onmicrosoft.com^
