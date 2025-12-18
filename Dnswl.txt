@@ -16,3 +16,5 @@
 @@||html-load.com^
 @@||microsoft.com^
 @@||intune.microsoft.com^
+@@||teams.events.data.microsoft.com^
+@@||trace.svc.ui.com^
